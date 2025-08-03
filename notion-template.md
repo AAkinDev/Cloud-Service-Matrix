@@ -281,4 +281,4 @@ Managed Kubernetes,Compute,Containers,EKS,AKS,GKE,OKE,IBM Kubernetes Service,Man
 
 ---
 
-*Enhanced template for Cloud Service Matrix project - Perfect for enterprise teams and cloud architects*
+*Enhanced template for Cloud Service Matrix project - Created by AAkinDev - Perfect for Enterprise teams and Cloud Architects*
