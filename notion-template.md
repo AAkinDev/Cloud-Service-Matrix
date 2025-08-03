@@ -100,4 +100,4 @@ This template is designed to be imported into Notion for collaborative editing o
 
 ---
 
-*Template created for Cloud Service Matrix project* 
+*Template created by AAkinDev for Cloud Service Matrix project* 
