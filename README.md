@@ -24,11 +24,11 @@ This repository provides a detailed comparison of cloud services, helping develo
 
 | Rank | Provider | Logo | Market Share | Coverage | Position |
 |------|----------|------|-------------|----------|----------|
-| **🥇 #1** | **Amazon AWS** | <img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/aws.png" alt="AWS Logo" width="80" height="50"> | ~31% | 100% | **🏆 Market Leader** |
-| **🥈 #2** | **Microsoft Azure** | <img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Azure.png" alt="Azure Logo" width="80" height="50"> | ~25% | 100% | **🥈 Enterprise Focus** |
-| **🥉 #3** | **Google Cloud** | <img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Google_cloud.png" alt="Google Cloud Logo" width="80" height="50"> | ~11% | 100% | **🥉 AI/ML Leader** |
-| #4 | **Oracle Cloud** | <img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/oracle-cloud.png" alt="Oracle Cloud Logo" width="80" height="50"> | ~3% | 100% | Database Specialist |
-| #5 | **IBM Cloud** | <img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/IBM_Cloud_logo.png" alt="IBM Cloud Logo" width="80" height="50"> | ~2% | 100% | Enterprise Solutions |
+| **🥇 #1** | **Amazon AWS** | <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/aws.png" alt="AWS Logo" width="80" height="50"></a> | ~31% | 100% | **🏆 Market Leader** |
+| **🥈 #2** | **Microsoft Azure** | <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Azure.png" alt="Azure Logo" width="80" height="50"></a> | ~25% | 100% | **🥈 Enterprise Focus** |
+| **🥉 #3** | **Google Cloud** | <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Google_cloud.png" alt="Google Cloud Logo" width="80" height="50"></a> | ~11% | 100% | **🥉 AI/ML Leader** |
+| #4 | **Oracle Cloud** | <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/oracle-cloud.png" alt="Oracle Cloud Logo" width="80" height="50"></a> | ~3% | 100% | Database Specialist |
+| #5 | **IBM Cloud** | <a href="https://www.ibm.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/IBM_Cloud_logo.png" alt="IBM Cloud Logo" width="80" height="50"></a> | ~2% | 100% | Enterprise Solutions |
 | #6+ | **Others** | - | ~28% | Limited | (Alibaba Cloud, DigitalOcean, Linode, Vultr, Heroku, Salesforce, SAP, VMware, Rackspace, OVHcloud) |
 
 ## ✨ Features
