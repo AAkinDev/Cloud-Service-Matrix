@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-2024--12--19-blue.svg)](https://github.com/your-username/cloud-service-matrix)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--08--03-blue.svg)](https://github.com/AAkinDev/Cloud-Service-Matrix)
 
-A comprehensive comparison matrix of cloud services across major providers including **AWS**, **Azure**, **Google Cloud Platform**, **Oracle Cloud**, and **IBM Cloud**.
+A comprehensive comparison matrix of cloud services across major providers, including **AWS**, **Azure**, **Google Cloud Platform**, **Oracle Cloud**, and **IBM Cloud**.
 
 ## 📋 Table of Contents
 
