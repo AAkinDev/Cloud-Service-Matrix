@@ -20,15 +20,16 @@ A comprehensive comparison matrix of cloud services across major providers, incl
 
 This repository provides a detailed comparison of cloud services, helping developers, architects, and decision-makers make informed choices when selecting cloud providers and services for their projects. Whether you're building a new application, migrating existing infrastructure, or evaluating cloud options, this matrix serves as your comprehensive reference guide.
 
-### Supported Cloud Providers
+### Cloud Providers Overview & Market Share (2025)
 
-| Provider | Logo | Coverage |
-|----------|------|----------|
-| **AWS** | ![AWS Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/aws.png) | 5% |
-| **Azure** | ![Azure Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Azure.png) | 5% |
-| **GCP** | ![Google Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Google_cloud.png) | 5% |
-| **Oracle Cloud** | ![Oracle Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/oracle-cloud.png) | 5% |
-| **IBM Cloud** | ![IBM Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/IBM_Cloud_logo.png) | 5% |
+| Rank | Provider | Logo | Market Share | Coverage | Position |
+|------|----------|------|-------------|----------|----------|
+| **🥇 #1** | **Amazon AWS** | ![AWS Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/aws.png) | ~31% | 100% | **🏆 Market Leader** |
+| **🥈 #2** | **Microsoft Azure** | ![Azure Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Azure.png) | ~25% | 100% | **🥈 Enterprise Focus** |
+| **🥉 #3** | **Google Cloud** | ![Google Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Google_cloud.png) | ~11% | 100% | **🥉 AI/ML Leader** |
+| #4 | **Oracle Cloud** | ![Oracle Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/oracle-cloud.png) | ~3% | 100% | Database Specialist |
+| #5 | **IBM Cloud** | ![IBM Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/IBM_Cloud_logo.png) | ~2% | 100% | Enterprise Solutions |
+| #6+ | **Others** | - | ~28% | Limited | (Alibaba Cloud, DigitalOcean, Linode, Vultr, Heroku, Salesforce, SAP, VMware, Rackspace, OVHcloud) |
 
 ## ✨ Features
 
