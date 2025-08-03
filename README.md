@@ -159,4 +159,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **📧 Questions?** Open an issue or reach out to the maintainers.
 
-**🔄 Last Updated**: December 2024 
+**🔄 Last Updated**: Aug 2025
