@@ -8,13 +8,19 @@ This directory contains logos and icons for cloud service providers.
 - Use for documentation and presentations
 - Maintain consistent branding across the project
 
-## Recommended Files
+## Available Logos
 
-- `aws-logo.png` - Amazon Web Services logo
-- `azure-logo.png` - Microsoft Azure logo
-- `gcp-logo.png` - Google Cloud Platform logo
-- `oracle-cloud-logo.png` - Oracle Cloud Infrastructure logo
-- `ibm-cloud-logo.png` - IBM Cloud logo
+- `aws.png` - Amazon Web Services logo ✅
+- `Azure.png` - Microsoft Azure logo ✅
+- `Google_cloud.png` - Google Cloud Platform logo ✅
+- `oracle-cloud.png` - Oracle Cloud Infrastructure logo ✅
+- `IBM_Cloud_logo.png` - IBM Cloud logo ✅
+
+All logos are now available and being used in the main README.
+
+## Usage in README
+
+The logos are displayed in the main README.md file in the "Supported Cloud Providers" table. Each logo is properly linked and will display the actual provider branding when viewed on GitHub or other Markdown renderers.
 
 ## Guidelines
 
