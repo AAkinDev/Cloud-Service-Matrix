@@ -24,11 +24,11 @@ This repository provides a detailed comparison of cloud services, helping develo
 
 | Provider | Logo | Coverage |
 |----------|------|----------|
-| **AWS** | 🟠 | 100% |
-| **Azure** | 🔵 | 100% |
-| **GCP** | 🟡 | 100% |
-| **Oracle Cloud** | 🔴 | 100% |
-| **IBM Cloud** | 🔵 | 100% |
+| **AWS** | ![AWS Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/aws.png) | 100% |
+| **Azure** | ![Azure Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Azure.png) | 100% |
+| **GCP** | ![Google Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/Google_cloud.png) | 100% |
+| **Oracle Cloud** | ![Oracle Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/oracle-cloud.png) | 100% |
+| **IBM Cloud** | ![IBM Cloud Logo](https://raw.githubusercontent.com/AAkinDev/Cloud-Service-Matrix/main/assets/logos/IBM_Cloud_logo.png) | 100% |
 
 ## ✨ Features
 
