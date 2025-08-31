@@ -4,6 +4,15 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025--08--03-blue.svg)](https://github.com/AAkinDev/Cloud-Service-Matrix)
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![CSV](https://img.shields.io/badge/CSV-Data-239120?style=for-the-badge&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Comma-separated_values)
+
+[![Status](https://img.shields.io/badge/status-production%20ready-brightgreen.svg?style=flat-square)](https://github.com/AAkinDev/Cloud-Service-Matrix)
+[![Data](https://img.shields.io/badge/data-400%2B%20services-blue?style=flat-square&logo=data)](https://github.com/AAkinDev/Cloud-Service-Matrix)
+[![Providers](https://img.shields.io/badge/providers-5%20major%20clouds-orange?style=flat-square&logo=cloud)](https://github.com/AAkinDev/Cloud-Service-Matrix)
+
 A comprehensive comparison matrix of cloud services across major providers, including **AWS**, **Azure**, **Google Cloud Platform**, **Oracle Cloud**, and **IBM Cloud**.
 
 ## 📋 Table of Contents
